@@ -1,0 +1,15 @@
+body {
+  background-color: #2196F3;
+}
+
+.signup {
+  margin-top: 8%;
+}
+
+.login-hint {
+  color: #DDDDDD;
+}
+
+#login-link {
+  color: #FFFFFF;
+}
